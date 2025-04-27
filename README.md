@@ -1,3 +1,4 @@
+![](titre-hackathon.png)
 # hackathon-2025
 Hackathon organized at IMD/UFRN in Natal from 21/07/2025 to 25/07/2025.
 
