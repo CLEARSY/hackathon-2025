@@ -1,5 +1,5 @@
 ![](titire-officiel-hackathon-2025.png)
-# hackathon-2025
+# Hackathon-2025
 Hackathon organized at IMD/UFRN in Natal from 21/07/2025 to 25/07/2025.
 It is aimed at using B for modelling and proving software with Atelier B and ProB.
 The subjects are issued from concrete examples from real life. Their complexity is compatible with the format of the hackathon.
