@@ -1,6 +1,13 @@
 ![](titre-hackathon.png)
 # hackathon-2025
 Hackathon organized at IMD/UFRN in Natal from 21/07/2025 to 25/07/2025.
+It is aimed at using B for modelling and proving software with Atelier B and ProB.
+The first 3 students will receive respectively:
+- #1 a portable PC (specs TBD),
+- #2 a 1 To SDD,
+- #3 a 0.5 To SDD. 
+
+In case of excellent performance, #1 will be offered the possibility to do a 6-month internship in France (see [IMD annoucement](https://www.instagram.com/reel/DHMIOGQS8PE/?igsh=bm5ncTMwdm5zM2Vs)).
 
 ## Organization
 This hackathon is organized over 5 consecutive days.
@@ -17,9 +24,7 @@ Students can participate alone or in a group, as they wish.
 
 Based on this report and solely on this report, a score will be given to each report. 
 The author(s) of the report with the highest score will receive a new laptop, a wired mouse, and a bag.
-In case of ex-aequos, additional criteria will be used in descending order: 
-1) automatic rate of proof (quantitative criterion),
-2) interest and usefulness of explanations (qualitative criterion). 
+Two USB external SDD harddisks will go for 2nd and 3rd positions. 
 
 ## Contents
 This site contains some resources used for the Hackathon:
@@ -28,9 +33,9 @@ This site contains some resources used for the Hackathon:
 
 Required modelling tools are:
 - [Atelier B](https://www.atelierb.eu/en/atelier-b-support-maintenance/download-atelier-b/)  (Atelier B 24.04 CLEARSY Community Edition - installer)
-- [ProB2-UI]((https://prob.hhu.de/w/index.php?title=Download#ProB2-UI_(based_on_JavaFX))) (installer)
+- [ProB2-UI](https://prob.hhu.de/w/index.php?title=Download#ProB2-UI_(based_on_JavaFX)) (installer)
 
-- __Contributers__
+## Contributers
 - Thierry Lecomte: slides, edition, live presentation
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
