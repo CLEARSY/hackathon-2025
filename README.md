@@ -6,8 +6,8 @@ The subjects are issued from concrete examples from real life. Their complexity 
 
 The first 3 students will receive respectively:
 - #1 a portable PC (specs to be announced later),
-- #2 a 1 To SDD,
-- #3 a 0.5 To SDD. 
+- #2 a 1To SDD,
+- #3 a 0.5To SDD. 
 
 In case of excellent performance, #1 will be offered the possibility to do a 6-month internship in France.
 For more information, see:
