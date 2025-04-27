@@ -6,8 +6,8 @@ The subjects are issued from concrete examples from real life. Their complexity 
 
 The first 3 students will receive respectively:
 - #1 a portable PC (specs to be announced later),
-- #2 a 1To SDD,
-- #3 a 0.5To SDD. 
+- #2 a 1To external USB SDD,
+- #3 a 0.5To external USB SDD. 
 
 In case of excellent performance, #1 will be offered the possibility to do a 6-month internship in France.
 For more information, see:
@@ -48,7 +48,7 @@ The winner was João Pedro with a perfect score.
 ![](winners-hackathon-2024.png)
 
 ## Contributers
-- Thierry Lecomte: slides, edition, live presentation and hackathon animation.
+- Thierry Lecomte: slides, edition, live presentation, and hackathon animation.
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
