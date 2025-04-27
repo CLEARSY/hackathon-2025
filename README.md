@@ -38,7 +38,7 @@ This site contains some resources used for the Hackathon:
 
 Required modelling tools are:
 - [Atelier B](https://www.atelierb.eu/en/atelier-b-support-maintenance/download-atelier-b/)  (Atelier B 24.04 CLEARSY Community Edition - installer)
-- [ProB2-UI](https://prob.hhu.de/w/index.php?title=Download#ProB2-UI_(based_on_JavaFX)) (installer)
+- [ProB](https://prob.hhu.de/w/index.php?title=Download#ProB2-UI_(based_on_JavaFX)) (ProB2-UI - installer)
 
 ## Hackathon 2024
 
