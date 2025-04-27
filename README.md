@@ -5,7 +5,7 @@ It is aimed at using B for modelling and proving software with Atelier B and Pro
 The subjects are issued from concrete examples from real life. Their complexity is compatible with the format of the hackathon.
 
 The first 3 students will receive respectively:
-- #1 a portable PC (specs TBD),
+- #1 a portable PC (specs to be announced later),
 - #2 a 1 To SDD,
 - #3 a 0.5 To SDD. 
 
@@ -26,10 +26,10 @@ It will address B modelling and be the occasion to assess:
   - ability to correct a model
   - understanding of what a proof obligation is and to check visualy if it is true or false.
 
-Students may collaborate over the differents parts of the hackathon. However reports are nominative and should be written by a 
+Students may collaborate over the differents parts of the hackathon. However reports are nominative and should be written by a single person.
 
 Based on this report and solely on this report, a score will be given to each report. 
-This score is used to nominate #1, #, and #3, who will receive a prize. 
+This score is used to nominate #1, #, and #3, who will receive a prize as described in the first paragraph. 
 
 ## Contents
 This site contains some resources used for the Hackathon:
@@ -39,6 +39,13 @@ This site contains some resources used for the Hackathon:
 Required modelling tools are:
 - [Atelier B](https://www.atelierb.eu/en/atelier-b-support-maintenance/download-atelier-b/)  (Atelier B 24.04 CLEARSY Community Edition - installer)
 - [ProB2-UI](https://prob.hhu.de/w/index.php?title=Download#ProB2-UI_(based_on_JavaFX)) (installer)
+
+## Hackathon 2024
+
+It happened in [July 2024](https://github.com/CLEARSY/hackathon-2024).
+The winner was João Pedro with a perfect score.
+
+![](winners-hackathon-2024.png)
 
 ## Contributers
 - Thierry Lecomte: slides, edition, live presentation and hackathon animation.
