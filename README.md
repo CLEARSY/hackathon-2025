@@ -12,7 +12,7 @@ The first 3 students will receive respectively:
 In case of excellent performance, #1 will be offered the possibility to do a 6-month internship in France.
 For more information, see:
 - [Official Announcement from UFRN](https://boletim.ufrn.br/publico/informativo/4724.pdf)
-- [IMD annoucement](https://www.instagram.com/reel/DHMIOGQS8PE/?igsh=bm5ncTMwdm5zM2Vs)).
+- [IMD annoucement](https://www.instagram.com/reel/DHMIOGQS8PE/?igsh=bm5ncTMwdm5zM2Vs).
 - [Empresa francesa oferece estágio para alunos da UFRN (Blog TribunalDoNorte 22/03/2025)](https://blog.tribunadonorte.com.br/territoriolivre/empresa-francesa-oferece-estagio-para-alunos-da-ufrn/)
 
 ## Organization
