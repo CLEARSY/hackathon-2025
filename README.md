@@ -41,12 +41,17 @@ Required modelling tools are:
 - [Atelier B](https://www.atelierb.eu/en/atelier-b-support-maintenance/download-atelier-b/)  (Atelier B 24.04 CLEARSY Community Edition - installer)
 - [ProB](https://prob.hhu.de/w/index.php?title=Download#ProB2-UI_(based_on_JavaFX)) (ProB2-UI - installer)
 
-## Hackathon 2024
+## Hackathon 2024: modelling railways signalling system
 
 It happened in [July 2024](https://github.com/CLEARSY/hackathon-2024).
 The winner was João Pedro with a perfect score.
 
 ![](winners-hackathon-2024.png)
+
+## Hackathon 2023: modelling traffic lights
+
+It happened in [July 2023](https://github.com/CLEARSY/hackathon).
+The winner was João Gabriel.
 
 ## Contributers
 - Thierry Lecomte: slides, edition, live presentation, and hackathon animation.
