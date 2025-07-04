@@ -7,6 +7,8 @@ The subjects are issued from concrete examples from real life. Their size and co
 
 The first 3 students will receive respectively:
 - #1 a portable PC (15.6", Ryzen 7 5700U (8C/16T, 4,3GHz) 16Go RAM DDR4x2 + 512Go M.2 SSD),
+![](PC.jpg)
+
 - #2 a 1To external USB SDD,
 - #3 a 0.5To external USB SDD. 
 
