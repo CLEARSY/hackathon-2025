@@ -1,5 +1,9 @@
 ![](titire-officiel-hackathon-2025.png)
 # Hackathon-2025
+## Update
+- 20/07/20225: intro slides day 1 added
+
+## Description
 This Hackathon is organized by [CLEARSY](https://www.clearsy.com/en/), with the active support of [Dr Marcel Oliveira](https://www.dimap.ufrn.br/~marcel).
 It will take place at [Instituto Metropole Digital/UFRN](https://maps.app.goo.gl/tDVkFT9e4XMnW86L7) (Natal, Brazil) from 21/07/2025 to 25/07/2025, from 16:40 to 18:20 every day, for a total of 8h20.
 It is aimed at using B for modelling and proving software with [Atelier B](https://www.atelierb.eu/en/) and [ProB](https://prob.hhu.de/).
