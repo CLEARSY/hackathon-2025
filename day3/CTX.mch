@@ -8,9 +8,7 @@ SETS
     };
     OBJECTIVES = {
         OBJ_OPEN_DOOR_A,
-        OBJ_CLOSE_DOOR_A,
         OBJ_OPEN_DOOR_B,
-        OBJ_CLOSE_DOOR_B,
         OBJ_NONE
         };
     ACTIONS = {
