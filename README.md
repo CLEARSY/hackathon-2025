@@ -1,8 +1,10 @@
 ![](titire-officiel-hackathon-2025.png)
 # Hackathon-2025
 ## Update
-- 20/07/20225: intro slides day 1 added
+- 23/07/2025: solution part 2 + models part 1 & 2
+- 22/07/2025: slides part 2 + solution part 1 added
 - 21/07/2025: slides part 1 added
+- 20/07/20225: intro slides day 1 added
 
 ## Description
 This Hackathon is organized by [CLEARSY](https://www.clearsy.com/en/), with the active support of [Dr Marcel Oliveira](https://www.dimap.ufrn.br/~marcel).
