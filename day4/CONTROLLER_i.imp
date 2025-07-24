@@ -1,0 +1,26 @@
+IMPLEMENTATION CONTROLLER_i
+REFINES CONTROLLER  
+SEES
+    CTX, SENSORS, ENABLER
+INITIALISATION
+    current_action := NONE;
+    current_authentication := AUTHENTICATED_NONE;
+    current_objective := OBJ_NONE
+    
+OPERATIONS
+    process_readers = 
+    IF current_authentication = AUTHENTICATED_NONE THEN
+        IF card_reader_a = TRUE THEN 
+            current_authentication := AUTHENTICATED_A 
+        ELSIF card_reader_b = TRUE THEN
+            current_authentication := AUTHENTICATED_B 
+        ELSIF card_reader_l = TRUE THEN
+            current_authentication := AUTHENTICATED_L
+        END       
+    END;   
+    
+    control = /* TO BE COMPLETED */
+    BEGIN       
+        skip     
+    END   
+END
