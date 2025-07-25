@@ -1,0 +1,18 @@
+IMPLEMENTATION MAIN_i
+REFINES MAIN
+    
+IMPORTS CTX, SENSORS, ENABLER, 
+    CONTROLLER_daniel, CONTROLLER_henrique
+CONCRETE_VARIABLES
+    action // The action executed after voting
+INVARIANT
+    action : ACTIONS
+INITIALISATION
+    action := NONE   
+OPERATIONS
+    operate =
+    VAR act_d, auth_d, obj_d, act_h, auth_h, obj_h IN 
+        /* To complete */
+        END   
+    END    
+END
