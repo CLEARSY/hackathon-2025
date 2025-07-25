@@ -1,6 +1,8 @@
 ![](titire-officiel-hackathon-2025.png)
 # Hackathon-2025
 ## Update
+- 25/07/2025: slides p5 and models
+- 24/07/2025: slides p3, p4 and models
 - 23/07/2025: solution part 2 + models part 1 & 2
 - 22/07/2025: slides part 2 + solution part 1 added
 - 21/07/2025: slides part 1 added
