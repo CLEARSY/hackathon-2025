@@ -38,12 +38,14 @@ OPERATIONS
                 pressure_sensor_l = PRESSURE_B & contact_sensor_a = TRUE
             ) &            
             (current_action = ADAPT_PRESSURE_L_TO_A => 
-                contact_sensor_b = TRUE & contact_sensor_b = TRUE
+                contact_sensor_b = TRUE & contact_sensor_b = TRUE &
+                pressure_sensor_l /= PRESSURE_A
             ) &
             (current_action = ADAPT_PRESSURE_L_TO_B => 
-                contact_sensor_a = TRUE & contact_sensor_b = TRUE
+                contact_sensor_a = TRUE & contact_sensor_b = TRUE &
+                pressure_sensor_l /= PRESSURE_B
             ) 
-        )
+        ) 
     END
 END
 
