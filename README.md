@@ -1,7 +1,7 @@
 ![](titire-officiel-hackathon-2025.png)
 # Hackathon-2025
 ## Update
-- 28/05/2025: solution p5
+- 28/05/2025: solution p5, results
 - 25/07/2025: slides p5 and models
 - 24/07/2025: slides p3, p4 and models
 - 23/07/2025: solution part 2 + models part 1 & 2
@@ -52,6 +52,17 @@ This site contains some resources used for the Hackathon:
 Required modelling tools are:
 - [Atelier B](https://www.atelierb.eu/en/atelier-b-support-maintenance/download-atelier-b/)  (Atelier B 24.04 CLEARSY Community Edition - installer)
 - [ProB](https://prob.hhu.de/w/index.php?title=Download#ProB2-UI_(based_on_JavaFX)) (ProB2-UI - installer)
+
+## Results
+
+The first three participants are:
+
+- Henrique Fouquet, with 50 pts out of 50, and 16 optional pts
+- Daniel Lucena, with a score of 49 pts, and 11 optional points
+- Wisla Argolo, with a score of 48 pts, and 14 optional points
+
+![](results.jpg)
+
 
 ## Hackathon 2024: modelling railways signalling system
 
